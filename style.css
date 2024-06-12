@@ -7,3 +7,23 @@
 body {
   background-color: bisque;
 }
+
+#hero,
+#about,
+#contact {
+  height: 100vh;
+  font-size: 2rem;
+  text-align: center;
+}
+
+#hero {
+  background-color: blueviolet;
+}
+
+#about {
+  background-color: brown;
+}
+
+#contact {
+  background-color: coral;
+}
